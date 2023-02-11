@@ -1,5 +1,5 @@
 /*
-Template: a2z-status-checker - Cloud Computing, Apps & Server Responsive HTML5 Template
+Template: a2z-status-checker - Cloud Computing, Apps & Server 
 Author: iqonicthemes.in
 Version: 1.0
 Design and Developed by: iqonicthemes.in
